@@ -64,7 +64,7 @@ A collection of tools best described as "A better $X"
 *   [dust](https://github.com/bootandy/dust), a better du.
 *   [lsd](https://github.com/Peltoche/lsd) and [exa](https://the.exa.website/), new takes on the venerable ls.
 *   There's also [zoxide](https://github.com/ajeetdsouza/zoxide): an interesting update to, of all things, cd!
-*   [ag](https://github.com/ggreer/the_silver_searcher): the Silver Searcher, a better ack (which was in turn born "a better grep".
+*   [ag](https://github.com/ggreer/the_silver_searcher): the Silver Searcher, a better ack (which was in turn born "a better grep").
 
 ## Quality-Of-Life command line improvements.
 
