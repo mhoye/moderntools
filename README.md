@@ -15,7 +15,7 @@ Additions and corrections via raised issue or pull requests are welcome.
 *   [tmux](https://github.com/tmux/tmux/wiki), a terminal multiplexer.
 *   Some people mentioned [screen](https://www.gnu.org/software/screen/manual/screen.html), the classic tool in this space, but noted that it's getting pretty long in the tooth and tmux is a pure improvement.
 *   [HTTPie](https://httpie.io/), a CURL-adjacentish command-line HTTP client for testing and debugging web APIs.
-**   [Xh](https://github.com/ducaale/xh) is related, described as reimplementing a subset of HTTPie's interface with an emphasis on simplicity and speed.
+    *   [Xh](https://github.com/ducaale/xh) is related, described as reimplementing a subset of HTTPie's interface with an emphasis on simplicity and speed.
 *   [glow](https://github.com/charmbracelet/glow), a markdown-on-the-command-line tool. 
 *   [Lowdown](https://github.com/kristapsdz/lowdown), also a markdown tool, also interesting.
 *   [fzf](https://github.com/junegunn/fzf), a command-line "fuzzy finder".
