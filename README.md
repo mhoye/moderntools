@@ -58,6 +58,7 @@ A collection of modern data migration, conversion and management tools.
 
 A collection of tools best described as "A better $X"
 
+*   [ply](https://wkz.github.io/ply/), described as "bpftrace without the drama."
 *   [duf](https://github.com/muesli/duf) a better df.
 *   [ripgrep](https://github.com/BurntSushi/ripgrep), a line-oriented search tool, described as a better grep.
 *   [sd](https://github.com/chmln/sd), a better sed.
