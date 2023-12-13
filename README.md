@@ -11,8 +11,9 @@ Additions and corrections via raised issue or pull requests are welcome.
 ## System use and management
 
 *   [htop](https://htop.dev/), "a cross-platform interactive process viewer". 
-*   An [htop-like utility called bottom](https://github.com/clementtsang/bottom) also got some love, as did
+*   [bottom](https://github.com/clementtsang/bottom), an htop-like utility that also got some votes.
 *   [btop++](https://github.com/aristocratos/btop), another 'better top' variant.
+*   [ncdu](https://dev.yorhel.nl/ncdu), friend of htop and a nice disk usage display for the terminal.
 *   [HTTPie](https://httpie.io/), a CURL-adjacentish command-line HTTP client for testing and debugging web APIs.
 *   [Xh](https://github.com/ducaale/xh) is related, described as reimplementing a subset of HTTPie's interface with an emphasis on simplicity and speed.
 *   [glow](https://github.com/charmbracelet/glow), a markdown-on-the-command-line tool. 
@@ -22,7 +23,6 @@ Additions and corrections via raised issue or pull requests are welcome.
 *   [Tree](https://linuxhandbook.com/tree-command/): show you the tree structure of directories, a bit like microdosing on Midnight Commander from back in the day.
 *   [Broot](https://github.com/Canop/broot): better navigation of directory trees.
 *   [atool](https://linux.die.net/man/1/atool), a set of scripts that wrap common compressed-file-format handlers.
-*   [ncdu](https://dev.yorhel.nl/ncdu), friend of htop and a nice disk usage display for the terminal.
 *   [LazyDocker](https://github.com/jesseduffield/lazydocker) and [LazyGit](https://github.com/jesseduffield/lazygit), CLI improvements for Docker and Git respectively.
 
 ## Data management
@@ -30,20 +30,20 @@ Additions and corrections via raised issue or pull requests are welcome.
 A collection of modern data migration, conversion and management tools.
 
 *   [Gron](https://github.com/tomnomnom/gron), a tool for making JSON greppable.
-*   [VisiData](https://www.visidata.org/): a tabular data visualization multitool.
 *   [jq](https://stedolan.github.io/jq/) and [jid](https://github.com/simeji/jid) are both fantastic tools for inspecting and manipulating JSON.
-*   [duc](https://duc.zevv.nl/), also a nice drive-use visualizer.
-*   [rclone](https://rclone.org/), a cloud-storage data-moving multitool.
-*   [unison](https://github.com/bcpierce00/unison): a file synchronizer, can keep two directories in sync bi-directionally.
-*   [csvkit](https://github.com/wireservice/csvkit): if you spend a lot of time working with comma-separated values, accept no substitutes.
-*   [matplotlib](https://matplotlib.org/): the upgrade over gnuplot you've been waiting for.
-*   [xidel](https://github.com/benibela/xidel): this looks like jq-for-html, and I'm intrigued.
-*   [nushell](https://www.nushell.sh/): A structured-data pipeline-building _shell_.
-*   [miller](https://github.com/johnkerl/miller), a CSV multitool.
-*   [st](https://github.com/nferraz/st), "Simple Statistics", a command-line app that calculates the sum, mean, standard deviation,  and a few other things about a set of numbers.
 *   [ijq](https://sr.ht/~gpanders/ijq/), an "interactive jq".
+*   [xidel](https://github.com/benibela/xidel): this looks like jq-for-html, and I'm intrigued.
+*   [csvkit](https://github.com/wireservice/csvkit): if you spend a lot of time working with comma-separated values, accept no substitutes.
+*   [miller](https://github.com/johnkerl/miller), a CSV multitool.
+*   [VisiData](https://www.visidata.org/): a tabular data visualization multitool.
+*   [duc](https://duc.zevv.nl/), also a nice drive-use visualizer.
+*   [matplotlib](https://matplotlib.org/): the upgrade over gnuplot you've been waiting for.
+*   [st](https://github.com/nferraz/st), "Simple Statistics", a command-line app that calculates the sum, mean, standard deviation, and a few other things about a set of numbers.
 *   [Datamash](https://www.gnu.org/software/datamash/): Gnu, I know, but an interesting command-line-math tool.
 *   [Dasel](https://github.com/TomWright/dasel), short for Data Selector, like jq/yq but with more supported data formats.
+*   [nushell](https://www.nushell.sh/): A structured-data pipeline-building _shell_.
+*   [rclone](https://rclone.org/), a cloud-storage data-moving multitool, similar to rsync.
+*   [unison](https://github.com/bcpierce00/unison): a file synchronizer, can keep two directories in sync bi-directionally.
 
 ## Specialized tools
 
@@ -64,11 +64,11 @@ A collection of tools best described as "A better $X"
 *   [bat](https://github.com/sharkdp/bat), a better cat.
 *   [dust](https://github.com/bootandy/dust), a better du.
 *   [lsd](https://github.com/Peltoche/lsd) and [exa](https://the.exa.website/), new takes on the venerable ls.
-*   There's also [zoxide](https://github.com/ajeetdsouza/zoxide): an interesting update to, of all things, cd!
+*   [zoxide](https://github.com/ajeetdsouza/zoxide): an interesting update to, of all things, cd!
+*   [z](https://github.com/rupa/z): another "better cd", but a very cool frecency-and-regex-matching "faster/smarter cd".
 *   [ag](https://github.com/ggreer/the_silver_searcher): the Silver Searcher, a better ack (which was in turn born "a better grep").
 *   [just](https://github.com/casey/just): Just, a modernization of the venerable Make.
 *   [Meli email](https://meliemail.org/): An extensible terminal based mail client; a work in progress, but an elegant improvement on Mutt.
-*   [z](https://github.com/rupa/z): another "better cd", but a very cool frecency-and-regex-matching "faster/smarter cd".
 *   [Aerc](https://aerc-mail.org/): Another email client for the terminal, described as highly efficient and extensible, perfect for the discerning hacker.
 
 ## Shells, shell customizations and ergonomic improvements
