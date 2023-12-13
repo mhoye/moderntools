@@ -72,6 +72,8 @@ A collection of tools best described as "A better $X"
 *   [Meli email](https://meliemail.org/): An extensible terminal based mail client; a work in progress, but an elegant improvement on Mutt.
 *   [z](https://github.com/rupa/z): another "better cd", but a very cool frecency-and-regex-matching "faster/smarter cd".
 *   [atuin](https://github.com/atuinsh/atuin): "magical shell history", storing shell history in an SQLite DB and offering fully-encrypted shell-history sync between devices.
+*   [Aerc](https://aerc-mail.org/): Another email client for the terminal, described as highly efficient and extensible, perfect for the discerning hacker.
+
 
 ## Quality-Of-Life command line improvements.
 
