@@ -69,6 +69,7 @@ A collection of tools best described as "A better $X"
 *   There's also [zoxide](https://github.com/ajeetdsouza/zoxide): an interesting update to, of all things, cd!
 *   [ag](https://github.com/ggreer/the_silver_searcher): the Silver Searcher, a better ack (which was in turn born "a better grep").
 *   [just](https://github.com/casey/just): Just, a modernization of the venerable Make.
+*   [Meli email](https://meliemail.org/): An extensible terminal based mail client; a work in progress, but an elegant improvement on Mutt.
 
 ## Quality-Of-Life command line improvements.
 
