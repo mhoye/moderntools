@@ -17,7 +17,7 @@ Additions and corrections via raised issue or pull requests are welcome.
 *   [Xh](https://github.com/ducaale/xh) is related, described as reimplementing a subset of HTTPie's interface with an emphasis on simplicity and speed.
 *   [glow](https://github.com/charmbracelet/glow), a markdown-on-the-command-line tool. 
 *   [Lowdown](https://github.com/kristapsdz/lowdown), also a markdown tool, also interesting.
-*   [fzf](https://github.com/junegunn/fzf), a command-line "fuzzy finder" (but take a look at 'z' further down this list.)
+*   [fzf](https://github.com/junegunn/fzf) and [skim](https://github.com/lotabout/skim) are both interesting CLI "fuzzy finders" (but take a look at 'z' further down this list.)
 *   [tldr](https://tldr.sh/) - simplified man pages with practical examples. The world has needed this for a long time.
 *   [Tree](https://linuxhandbook.com/tree-command/): show you the tree structure of directories, a bit like microdosing on Midnight Commander from back in the day.
 *   [Broot](https://github.com/Canop/broot): better navigation of directory trees.
