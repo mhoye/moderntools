@@ -11,21 +11,17 @@ Additions and corrections via raised issue or pull requests are welcome.
 ## System use and management
 
 *   [htop](https://htop.dev/), "a cross-platform interactive process viewer". 
-*   An [htop-like utility called bottom](https://github.com/clementtsang/bottom) also got some votes.
-*   [tmux](https://github.com/tmux/tmux/wiki), a terminal multiplexer.
-*   Some people mentioned [screen](https://www.gnu.org/software/screen/manual/screen.html), the classic tool in this space, but noted that it's getting pretty long in the tooth and tmux is a pure improvement.
+*   An [htop-like utility called bottom](https://github.com/clementtsang/bottom) also got some love, as did
+*   [btop++](https://github.com/aristocratos/btop), another 'better top' variant.
 *   [HTTPie](https://httpie.io/), a CURL-adjacentish command-line HTTP client for testing and debugging web APIs.
-    *   [Xh](https://github.com/ducaale/xh) is related, described as reimplementing a subset of HTTPie's interface with an emphasis on simplicity and speed.
+*   [Xh](https://github.com/ducaale/xh) is related, described as reimplementing a subset of HTTPie's interface with an emphasis on simplicity and speed.
 *   [glow](https://github.com/charmbracelet/glow), a markdown-on-the-command-line tool. 
 *   [Lowdown](https://github.com/kristapsdz/lowdown), also a markdown tool, also interesting.
-*   [fzf](https://github.com/junegunn/fzf), a command-line "fuzzy finder".
+*   [fzf](https://github.com/junegunn/fzf), a command-line "fuzzy finder" (but take a look at 'z' further down this list.)
 *   [tldr](https://tldr.sh/) - simplified man pages with practical examples. The world has needed this for a long time.
-*   [zsh](https://en.wikipedia.org/wiki/Z_shell): A modernized, modular update to Bash with a lot of new utility built in.
-** [OhMyZsh](https://github.com/ohmyzsh/ohmyzsh/) + [Alacritty](https://github.com/alacritty/alacritty): this trifecta of terminal emulator, shell and shell extensions turns out to be a powerful combination.
 *   [Tree](https://linuxhandbook.com/tree-command/): show you the tree structure of directories, a bit like microdosing on Midnight Commander from back in the day.
 *   [Broot](https://github.com/Canop/broot): better navigation of directory trees.
 *   [atool](https://linux.die.net/man/1/atool), a set of scripts that wrap common compressed-file-format handlers.
-*   [mcfly](https://github.com/cantino/mcfly): replaces the usual ctrl-r shell-history search handler with a more powerful tool, super cool.
 *   [ncdu](https://dev.yorhel.nl/ncdu), friend of htop and a nice disk usage display for the terminal.
 *   [LazyDocker](https://github.com/jesseduffield/lazydocker) and [LazyGit](https://github.com/jesseduffield/lazygit), CLI improvements for Docker and Git respectively.
 
@@ -46,8 +42,9 @@ A collection of modern data migration, conversion and management tools.
 *   [st](https://github.com/nferraz/st), "Simple Statistics", a command-line app that calculates the sum, mean, standard deviation,  and a few other things about a set of numbers.
 *   [ijq](https://sr.ht/~gpanders/ijq/), an "interactive jq".
 *   [Datamash](https://www.gnu.org/software/datamash/): Gnu, I know, but an interesting command-line-math tool.
+*   [Dasel](https://github.com/TomWright/dasel), short for Data Selector, like jq/yq but with more supported data formats.
 
-## Specialized Tools
+## Specialized tools
 
 "Do one thing and do it well."
 
@@ -71,9 +68,18 @@ A collection of tools best described as "A better $X"
 *   [just](https://github.com/casey/just): Just, a modernization of the venerable Make.
 *   [Meli email](https://meliemail.org/): An extensible terminal based mail client; a work in progress, but an elegant improvement on Mutt.
 *   [z](https://github.com/rupa/z): another "better cd", but a very cool frecency-and-regex-matching "faster/smarter cd".
-*   [atuin](https://github.com/atuinsh/atuin): "magical shell history", storing shell history in an SQLite DB and offering fully-encrypted shell-history sync between devices.
 *   [Aerc](https://aerc-mail.org/): Another email client for the terminal, described as highly efficient and extensible, perfect for the discerning hacker.
 
+## Shells, shell customizations and ergonomic improvements
+
+*   The [Fish Shell](https://fishshell.com/), "a command line shell for the 90's."
+*   [zsh](https://en.wikipedia.org/wiki/Z_shell): A modernized, modular update to Bash with a lot of new utility built in.
+*   Building on zsh, [OhMyZsh](https://github.com/ohmyzsh/ohmyzsh/) + [Alacritty](https://github.com/alacritty/alacritty): this trifecta of terminal emulator, shell and shell extensions turns out to be a powerful combination.
+*   [Starship.rs](https://starship.rs/): Cross-shell prompt customization that looks very pretty.
+*   [atuin](https://github.com/atuinsh/atuin): "magical shell history", storing shell history in an SQLite DB and offering fully-encrypted shell-history sync between devices.
+*   [mcfly](https://github.com/cantino/mcfly): replaces the usual ctrl-r shell-history search handler with a more powerful tool, super cool.
+*   [tmux](https://github.com/tmux/tmux/wiki), a terminal multiplexer.
+*   Some people mentioned [screen](https://www.gnu.org/software/screen/manual/screen.html), the classic tool in this space, but noted that it's getting pretty long in the tooth and tmux is a pure improvement.
 
 ## Quality-Of-Life command line improvements.
 
@@ -83,3 +89,5 @@ A collection of tools best described as "A better $X"
 ## Other collections
 
 *   The [moreutils](https://joeyh.name/code/moreutils/) collection.
+*   [Terminal Trove](https://terminaltrove.com/), the "$HOME of all things in the terminal".
+  
