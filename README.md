@@ -22,6 +22,9 @@ Additions and corrections via raised issue or pull requests are welcome.
 *   [tldr](https://tldr.sh/) - simplified man pages with practical examples. The world has needed this for a long time.
 *   [zsh](https://en.wikipedia.org/wiki/Z_shell): A modernized, modular update to Bash with a lot of new utility built in.
 ** [OhMyZsh](https://github.com/ohmyzsh/ohmyzsh/) + [Alacritty](https://github.com/alacritty/alacritty): this trifecta of terminal emulator, shell and shell extensions turns out to be a powerful combination.
+*   [fish](https://fishshell.com): Finally, a command line shell for the 90s. Non-posix, but with nice defaults for interactive use right out of the box (very little need for custom configuration and plugins).
+** [OhMyFish](https://github.com/oh-my-fish/oh-my-fish): Plugin system for fish, for those missing complexity.
+** [Fisher](https://github.com/jorgebucaran/fisher): The other plugin manager for fish, compatible with oh-my-fish plugins.
 *   [Tree](https://linuxhandbook.com/tree-command/): show you the tree structure of directories, a bit like microdosing on Midnight Commander from back in the day.
 *   [Broot](https://github.com/Canop/broot): better navigation of directory trees.
 *   [atool](https://linux.die.net/man/1/atool), a set of scripts that wrap common compressed-file-format handlers.
