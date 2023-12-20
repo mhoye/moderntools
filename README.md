@@ -34,6 +34,7 @@ A collection of modern data migration, conversion and management tools.
 *   [jq](https://stedolan.github.io/jq/) and [jid](https://github.com/simeji/jid) are both fantastic tools for inspecting and manipulating JSON.
 *   [duc](https://duc.zevv.nl/), also a nice drive-use visualizer.
 *   [rclone](https://rclone.org/), a cloud-storage data-moving multitool.
+*   [unison](https://github.com/bcpierce00/unison): a file synchronizer, can keep two directories in sync bi-directionally.
 *   [csvkit](https://github.com/wireservice/csvkit): if you spend a lot of time working with comma-separated values, accept no substitutes.
 *   [matplotlib](https://matplotlib.org/): the upgrade over gnuplot you've been waiting for.
 *   [xidel](https://github.com/benibela/xidel): this looks like jq-for-html, and I'm intrigued.
