@@ -63,7 +63,7 @@ A collection of tools best described as "A better $X"
 *   [fd](https://crates.io/crates/fd-find), a better find
 *   [bat](https://github.com/sharkdp/bat), a better cat.
 *   [dust](https://github.com/bootandy/dust), a better du.
-*   [lsd](https://github.com/Peltoche/lsd) and [exa](https://the.exa.website/), new takes on the venerable ls.
+*   [lsd](https://github.com/Peltoche/lsd) and [eza](https://github.com/eza-community/eza), new takes on the venerable ls. (Note: this previously referred to exa, rather than eza, but exa has apparently been forked and abandoned.
 *   [zoxide](https://github.com/ajeetdsouza/zoxide): an interesting update to, of all things, cd!
 *   [z](https://github.com/rupa/z): another "better cd", but a very cool frecency-and-regex-matching "faster/smarter cd".
 *   [ag](https://github.com/ggreer/the_silver_searcher): the Silver Searcher, a better ack (which was in turn born "a better grep").
@@ -76,7 +76,7 @@ A collection of tools best described as "A better $X"
 *   [fish](https://fishshell.com): Finally, a command line shell for the 90s. Non-posix, but with nice defaults for interactive use right out of the box (very little need for custom configuration and plugins).
     * [OhMyFish](https://github.com/oh-my-fish/oh-my-fish): Plugin system for fish, for those missing complexity.
     * [Fisher](https://github.com/jorgebucaran/fisher): The other plugin manager for fish, compatible with oh-my-fish plugins.
-*   [zsh](https://en.wikipedia.org/wiki/Z_shell): A modernized, modular update to Bash with a lot of new utility built in.
+*   [zsh](https://en.wikipedia.org/wiki/Z_shell): A modernized, modular update to Bash with a lot of new utility built in, as well as its [remarkable collection of plugins](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins)
     * [OhMyZsh](https://github.com/ohmyzsh/ohmyzsh/) + [Alacritty](https://github.com/alacritty/alacritty): this trifecta of terminal emulator, shell and shell extensions turns out to be a powerful combination.
 *   [Starship.rs](https://starship.rs/): Cross-shell prompt customization that looks very pretty.
 *   [atuin](https://github.com/atuinsh/atuin): "magical shell history", storing shell history in an SQLite DB and offering fully-encrypted shell-history sync between devices.
@@ -87,7 +87,7 @@ A collection of tools best described as "A better $X"
 ## Quality-Of-Life command line improvements.
 
 *   [the "ducks" alias.](https://gist.github.com/thebouv/8657674)
-*   Re-upping [OhMyZsh](https://github.com/ohmyzsh/ohmyzsh/) here for its [remarkable collection of plugins](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins)
+*   The author's own [per-project shell history hack](https://gist.github.com/mhoye/469ed97d7887b451da5d45b87acb53f5)
 
 ## Other collections
 
