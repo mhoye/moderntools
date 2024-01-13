@@ -11,10 +11,10 @@ Additions and corrections via raised issue or pull requests are welcome.
 ## System use and management
 
 *   There are enough new takes on the venerable top command that they're probably going to need their own category soon.
-   *   [htop](https://htop.dev/), "a cross-platform interactive process viewer". 
-   *   [bottom](https://github.com/clementtsang/bottom), an htop-like utility that also got some votes.
-   *   [btop++](https://github.com/aristocratos/btop), another 'better top' variant.
-   *   [glances](https://github.com/nicolargo/glances), "An eye on your system."
+    *   [htop](https://htop.dev/), "a cross-platform interactive process viewer". 
+    *   [bottom](https://github.com/clementtsang/bottom), an htop-like utility that also got some votes.
+    *   [btop++](https://github.com/aristocratos/btop), another 'better top' variant.
+    *   [glances](https://github.com/nicolargo/glances), "An eye on your system."
 *   [ncdu](https://dev.yorhel.nl/ncdu), friend of htop and a nice disk usage display for the terminal.
 *   [HTTPie](https://httpie.io/), a CURL-adjacentish command-line HTTP client for testing and debugging web APIs.
 *   [Xh](https://github.com/ducaale/xh) is related, described as reimplementing a subset of HTTPie's interface with an emphasis on simplicity and speed.
