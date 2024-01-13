@@ -24,6 +24,7 @@ Additions and corrections via raised issue or pull requests are welcome.
 *   [Broot](https://github.com/Canop/broot): better navigation of directory trees.
 *   [atool](https://linux.die.net/man/1/atool), a set of scripts that wrap common compressed-file-format handlers.
 *   [LazyDocker](https://github.com/jesseduffield/lazydocker) and [LazyGit](https://github.com/jesseduffield/lazygit), CLI improvements for Docker and Git respectively.
+*   [hwatch](https://github.com/blacknon/hwatch) and [viddy](https://github.com/sachaos/viddy), two alternatives to the venerable and underappreciated "watch" command.
 
 ## Data management
 
