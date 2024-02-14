@@ -96,4 +96,5 @@ A collection of tools best described as "A better $X"
 
 *   The [moreutils](https://joeyh.name/code/moreutils/) collection.
 *   [Terminal Trove](https://terminaltrove.com/), the "$HOME of all things in the terminal".
+*   Via Toolleeo, [The largest Awesome List of CLI/TUI programs](https://github.com/toolleeo/cli-apps), a very large list of command line programs.
   
