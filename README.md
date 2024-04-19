@@ -29,7 +29,6 @@ Additions and corrections via raised issue or pull requests are welcome.
 *   [hwatch](https://github.com/blacknon/hwatch) and [viddy](https://github.com/sachaos/viddy), two alternatives to the venerable and underappreciated "watch" command.
 
 *   [Zellij](https://zellij.dev/): Described as a "terminal workspace" with accessible defaults, unifying ideas in tmux and preconfigured environments. [Repo here.](https://github.com/zellij-org/zellij)
-*   
 
 ## Data management
 
