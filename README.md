@@ -91,7 +91,6 @@ A collection of tools best described as "A better $X"
 *   [mcfly](https://github.com/cantino/mcfly): replaces the usual ctrl-r shell-history search handler with a more powerful tool, super cool.
 *   [tmux](https://github.com/tmux/tmux/wiki), a terminal multiplexer.
 *   Some people mentioned [screen](https://www.gnu.org/software/screen/manual/screen.html), the classic tool in this space, but noted that it's getting pretty long in the tooth and tmux is a pure improvement.
-*   The [Kitty terminal emulator](https://github.com/kovidgoyal/kitty), a [performance-focused, GPU-based terminal emulator](https://sw.kovidgoyal.net/kitty/).
 
 ## Quality-Of-Life command line improvements.
 
