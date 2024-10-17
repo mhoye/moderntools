@@ -49,6 +49,8 @@ A collection of modern data migration, conversion and management tools.
 *   [nushell](https://www.nushell.sh/): A structured-data pipeline-building _shell_.
 *   [rclone](https://rclone.org/), a cloud-storage data-moving multitool, similar to rsync.
 *   [unison](https://github.com/bcpierce00/unison): a file synchronizer, can keep two directories in sync bi-directionally.
+*   [sq](https://github.com/neilotoole/sq): "jq-style access to structured data sources: SQL databases, or document formats like CSV or Excel. It is the lovechild of sql+jq."
+*   [xq](https://github.com/sibprogrammer/xq): A "Command-line XML and HTML beautifier and content extractor", another in the line of tools jq has inspired.
 
 ## Specialized tools
 
@@ -56,6 +58,7 @@ A collection of modern data migration, conversion and management tools.
 
 *   [LatexDiff](https://github.com/ftilmann/latexdiff/): Like it says on the tin, Diff for Latex.
 *   [dyff](https://github.com/homeport/dyff): diff for yaml.
+*   [axe-core](npmjs.com/package/axe-core), part of the NPM ecosystem, including the axe-cli command line tool for automatically testing the accessibility of web pages and HTML interfaces. 
 
 ## Revisiting The Classics
 
@@ -88,6 +91,7 @@ A collection of tools best described as "A better $X"
 *   [mcfly](https://github.com/cantino/mcfly): replaces the usual ctrl-r shell-history search handler with a more powerful tool, super cool.
 *   [tmux](https://github.com/tmux/tmux/wiki), a terminal multiplexer.
 *   Some people mentioned [screen](https://www.gnu.org/software/screen/manual/screen.html), the classic tool in this space, but noted that it's getting pretty long in the tooth and tmux is a pure improvement.
+*   The [Kitty terminal emulator](https://github.com/kovidgoyal/kitty), a [performance-focused, GPU-based terminal emulator](https://sw.kovidgoyal.net/kitty/).
 
 ## Quality-Of-Life command line improvements.
 
