@@ -27,16 +27,13 @@ Additions and corrections via raised issue or pull requests are welcome.
 *   [atool](https://linux.die.net/man/1/atool), a set of scripts that wrap common compressed-file-format handlers.
 *   [LazyDocker](https://github.com/jesseduffield/lazydocker) and [LazyGit](https://github.com/jesseduffield/lazygit), CLI improvements for Docker and Git respectively.
 *   [hwatch](https://github.com/blacknon/hwatch) and [viddy](https://github.com/sachaos/viddy), two alternatives to the venerable and underappreciated "watch" command.
-
 *   [Zellij](https://zellij.dev/): Described as a "terminal workspace" with accessible defaults, unifying ideas in tmux and preconfigured environments. [Repo here.](https://github.com/zellij-org/zellij)
+*   [Chezmoi](https://www.chezmoi.io/): Secure shared dotfile management between machines, encrypted and automated.
 
-## Data management
+## Data management and manipulation
 
 A collection of modern data migration, conversion and management tools.
 
-*   [Gron](https://github.com/tomnomnom/gron), a tool for making JSON greppable.
-*   [jq](https://stedolan.github.io/jq/) and [jid](https://github.com/simeji/jid) are both fantastic tools for inspecting and manipulating JSON.
-*   [ijq](https://sr.ht/~gpanders/ijq/), an "interactive jq".
 *   [xidel](https://github.com/benibela/xidel): this looks like jq-for-html, and I'm intrigued.
 *   [csvkit](https://github.com/wireservice/csvkit): if you spend a lot of time working with comma-separated values, accept no substitutes.
 *   [miller](https://github.com/johnkerl/miller), a CSV multitool.
@@ -51,6 +48,15 @@ A collection of modern data migration, conversion and management tools.
 *   [unison](https://github.com/bcpierce00/unison): a file synchronizer, can keep two directories in sync bi-directionally.
 *   [sq](https://github.com/neilotoole/sq): "jq-style access to structured data sources: SQL databases, or document formats like CSV or Excel. It is the lovechild of sql+jq."
 *   [xq](https://github.com/sibprogrammer/xq): A "Command-line XML and HTML beautifier and content extractor", another in the line of tools jq has inspired.
+*   [Numbat](https://numbat.dev/): A high-precision command line tool with physical unit support, very cool.
+
+## JSON specifically 
+
+*   [JSONLines](https://jsonlines.org/): The data format everything should be using for logging, pretty please. The sweet spot between machine parseable, human-readable and one-line-per-thing.
+*   [Gron](https://github.com/tomnomnom/gron), a tool for making JSON greppable.
+*   [jq](https://stedolan.github.io/jq/) and [jid](https://github.com/simeji/jid) are both fantastic tools for inspecting and manipulating JSON.
+*   [ijq](https://sr.ht/~gpanders/ijq/), an "interactive jq".
+*   [fx](https://fx.wtf/): An interesting, interactive command-line JSON processor.
 
 ## Specialized tools
 
@@ -91,6 +97,8 @@ A collection of tools best described as "A better $X"
 *   [mcfly](https://github.com/cantino/mcfly): replaces the usual ctrl-r shell-history search handler with a more powerful tool, super cool.
 *   [tmux](https://github.com/tmux/tmux/wiki), a terminal multiplexer.
 *   Some people mentioned [screen](https://www.gnu.org/software/screen/manual/screen.html), the classic tool in this space, but noted that it's getting pretty long in the tooth and tmux is a pure improvement.
+*   [vtm](https://github.com/DirectVT/vtm): a very interesting text-first user interface. Described as "vtm is to tmux what tmux is to screen".
+*   [Git-Town](https://www.git-town.com/): A wrapper around the complexities (and pitfalls) of Git that helps you get more out of it with less of the agony.
 
 ## Quality-Of-Life command line improvements.
 
