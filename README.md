@@ -48,6 +48,7 @@ A collection of modern data migration, conversion and management tools.
 *   [unison](https://github.com/bcpierce00/unison): a file synchronizer, can keep two directories in sync bi-directionally.
 *   [sq](https://github.com/neilotoole/sq): "jq-style access to structured data sources: SQL databases, or document formats like CSV or Excel. It is the lovechild of sql+jq."
 *   [xq](https://github.com/sibprogrammer/xq): A "Command-line XML and HTML beautifier and content extractor", another in the line of tools jq has inspired.
+*   [trurl](https://curl.se/trurl/) and [wcurl](https://github.com/curl/wcurl): two utilities from the Curl project, command line tool that parses and manipulates URLs and a wget-like wrapper.
 *   [Numbat](https://numbat.dev/): A high-precision command line tool with physical unit support, very cool.
 
 ## JSON specifically 
