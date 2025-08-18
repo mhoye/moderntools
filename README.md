@@ -25,7 +25,7 @@ Additions and corrections via raised issue or pull requests are welcome.
 *   [Tree](https://linuxhandbook.com/tree-command/): show you the tree structure of directories, a bit like microdosing on Midnight Commander from back in the day.
 *   [Broot](https://github.com/Canop/broot): better navigation of directory trees.
 *   [atool](https://linux.die.net/man/1/atool), a set of scripts that wrap common compressed-file-format handlers.
-*   [LazyDocker](https://github.com/jesseduffield/lazydocker) and [LazyGit](https://github.com/jesseduffield/lazygit), CLI improvements for Docker and Git respectively.
+*   [LazyDocker](https://github.com/jesseduffield/lazydocker) and [LazyGit](https://github.com/jesseduffield/lazygit) (or [Tig](github.com/jonas/tig) for better diff), CLI improvements for Docker and Git respectively.
 *   [hwatch](https://github.com/blacknon/hwatch) and [viddy](https://github.com/sachaos/viddy), two alternatives to the venerable and underappreciated "watch" command.
 *   [Zellij](https://zellij.dev/): Described as a "terminal workspace" with accessible defaults, unifying ideas in tmux and preconfigured environments. [Repo here.](https://github.com/zellij-org/zellij)
 *   [Chezmoi](https://www.chezmoi.io/): Secure shared dotfile management between machines, encrypted and automated.
