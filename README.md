@@ -83,7 +83,7 @@ A collection of tools best described as "A better $X"
 *   [z](https://github.com/rupa/z): another "better cd", but a very cool frecency-and-regex-matching "faster/smarter cd".
 *   [ag](https://github.com/ggreer/the_silver_searcher): the Silver Searcher, a better ack (which was in turn born "a better grep").
 *   [just](https://github.com/casey/just): Just, a modernization of the venerable Make.
-*   [Meli email](https://meliemail.org/): An extensible terminal based mail client; a work in progress, but an elegant improvement on Mutt.
+*   [Meli email](https://meli-email.org/): An extensible terminal based mail client; a work in progress, but an elegant improvement on Mutt.
 *   [Aerc](https://aerc-mail.org/): Another email client for the terminal, described as highly efficient and extensible, perfect for the discerning hacker.
 
 ## Shells, shell customizations and ergonomic improvements
